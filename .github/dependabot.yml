@@ -28,3 +28,4 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+ shiva
